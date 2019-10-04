@@ -1,0 +1,81 @@
+.visor{
+    width: 99%;
+    height: 83px;
+    border: 1px solid black;
+    
+    border-radius: 5px;
+    margin: 20px auto;
+}
+.cont{
+    width: 500px;
+    height: 570px;
+    margin-top: 10px;
+}
+
+.botom_cuadrado{
+    width: 40%;
+    padding: 0%;
+   
+}
+.botom_num{
+    width: 92%;
+    height: 80px;
+    font-size: 34px;
+}
+.botom_num_{
+    width: 92%;
+    height: 80px;
+    font-size: 34px;
+}
+.fila_num{
+    width: 100%;
+    margin-bottom: 2%;
+}
+.fila_num_{
+    width: 100%;
+    margin-bottom: 2%;
+}
+
+.botom_num_alto{
+    width: 93%;
+    height: 167px;
+    font-size: 34px;
+}
+.botom_num_ancho{
+    width: 92%;
+    height: 80px;
+    font-size: 34px;
+}
+.boton_chico{
+    width: 100%;
+    height: 80px;
+    font-size: 34px;
+    margin-left: -11px;
+}
+
+.ultimafila_num{
+    width: 100%;
+    margin-bottom: 0%;
+    padding: 0px;
+}
+
+.cont_botom{
+    width: 100%;
+    padding: 0%;
+    margin: 0%;
+   
+}
+
+.cont_final{
+    width: 100%;
+}
+.cont_boton_alto{
+    width: 100%;
+    margin-bottom: 2%;
+    padding: 0%;
+}
+
+.botom_alto{
+    width: 40%;
+    padding: 0%;
+}
